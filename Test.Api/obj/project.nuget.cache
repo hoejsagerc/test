@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Izs+/ZwAnHQ=",
+  "success": true,
+  "projectFilePath": "/home/hoejsagerc/dev/repos/test/Test.Api/Test.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/hoejsagerc/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/home/hoejsagerc/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/hoejsagerc/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.3/microsoft.aspnetcore.app.ref.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
